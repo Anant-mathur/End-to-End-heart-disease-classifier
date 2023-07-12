@@ -1,6 +1,6 @@
 # End-to-End-heart-disease-classifier
-1. Problem Defintion
-In a statement,
+1. Problem Defintion:-
+* In a statement,
 
 Given clinical parameters about a patient, can we predict whether or not they have a heart disease.
 
