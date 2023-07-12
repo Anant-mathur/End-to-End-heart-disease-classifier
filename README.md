@@ -9,7 +9,7 @@ The original data came from the Cleavland data from the UCI Machine Learning Rep
 If we can reach 95% accuracy at predicting whether or not a patient has heart disease, we will conclude the project as successful.
 
 # 4. Features
-## Create data dictionary
+### Create data dictionary
 
 * age - age in years
 * sex - (1 = male; 0 = female)
